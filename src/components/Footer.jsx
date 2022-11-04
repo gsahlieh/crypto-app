@@ -30,7 +30,7 @@ function Footer() {
               />
               <MdEmail
                 onClick={() => (
-                  window.open("mailto:collyerfj@gmail.com", '_blank', 'noopener,noreferrer')
+                  window.open("mailto:gsahlieh@outlook.com", '_blank', 'noopener,noreferrer')
                 )}
                 size={30} className='cursor-pointer hover:scale-105 duration-200'
               />
